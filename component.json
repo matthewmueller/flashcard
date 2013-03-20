@@ -1,0 +1,9 @@
+{
+  "name": "flashcard",
+  "main" : "flashcard.js",
+  "scripts" : [ "flashcard.js", "template.js" ],
+  "dependencies": {
+    "visionmedia/superagent": "*",
+    "component/regexps" : "*"
+  }
+}

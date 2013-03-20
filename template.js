@@ -1,0 +1,1 @@
+module.exports = '<div class = "card">\n  <div class = "front">\n\n  </div>\n  <div class = "back">\n\n  </div>\n</div>\n';

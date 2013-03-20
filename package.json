@@ -1,0 +1,9 @@
+{
+  "name": "flashcard",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "*",
+    "superagent": "*",
+    "batch": "~0.3.2"
+  }
+}
