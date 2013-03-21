@@ -18,7 +18,9 @@ I'm learning spanish right now. I'm trying to be systematic about it:
 
 I wanted a flexible way to slurp in a lot of the web's media with very little prior information. I decided that urls to resources was the easiest way to do this. However, many times you cannot eke out the type of media just from the url (e.g. google's speech api).
 
-So this compiler visits each url supplied and uses the response's `content-type` to determine how to represent each url. This makes it very easy to write scripts to build flash cards.
+So this compiler visits each url supplied and uses the response's `content-type` to determine how to represent each url. No, this compiler is not meant to be fast.
+
+The goal of the language is to make it very easy to write automated scripts to generate great flash cards.
 
 ## Installation
 
