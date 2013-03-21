@@ -2,7 +2,7 @@ hola
 http://fc04.deviantart.net/fs39/i/2008/363/6/4/Wave_Hello_by_8darkened8eclipse8.jpg
 http://translate.google.com/translate_tts?q=hola&tl=es
 ---
-hello
+*hello*
 http://translate.google.com/translate_tts?q=hello&tl=en
 ===
 gracias
