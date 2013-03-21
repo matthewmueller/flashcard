@@ -1,6 +1,6 @@
 {
   "name": "flashcard",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "batch": "~0.3.2",
     "marked": "~0.2.8",
