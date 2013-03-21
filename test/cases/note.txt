@@ -1,0 +1,28 @@
+bonjour
+http://2.bp.blogspot.com/-roeAtoXfYVc/Td6hw6ibwZI/AAAAAAAAKwA/bvrzmBtArDo/s1600/LionKing-01.jpg
+http://translate.google.com/translate_tts?q=bonjour&tl=fr
+## Features
+
+- follow links, use content type to determine how to present
+- come up with syntax (really flexible)
+- smart templates (.1-text-2-images)
+- markdown support (optional)
+- keyboard shortcuts (for paging through notecards)
+- heavy response caching across users (same http request should return the same response)
+---
+hello
+===
+
+fruit
+http://youtu.be/JW5meKfy3fY
+## Features
+
+- follow links, use content type to determine how to present
+- come up with syntax (really flexible)
+- smart templates (.1-text-2-images)
+- markdown support (optional)
+- keyboard shortcuts (for paging through notecards)
+- heavy response caching across users (same http request should return the same response)
+---
+fruta
+===
