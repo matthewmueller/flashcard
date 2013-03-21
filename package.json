@@ -7,6 +7,6 @@
     "batch": "~0.3.2"
   },
   "devDependencies" : {
-    "htmltidy" : "*"
+    "js-beautify" : "*"
   }
 }

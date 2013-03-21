@@ -32,8 +32,8 @@ hello
         .post('/notes')
         .send({ notes : val })
         .end(function(res) {
-          if(res.error) console.error(res.text);
-          console.log(res.text);
+          if(res.error) return console.error(res.text);
+          document.getElementById('out').innerHTML = res.text;
         });
     };
 
