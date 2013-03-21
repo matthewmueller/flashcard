@@ -4,6 +4,8 @@
   "scripts" : [ "flashcard.js", "template.js" ],
   "dependencies": {
     "visionmedia/superagent": "*",
-    "component/regexps" : "*"
+    "component/regexps" : "*",
+    "component/query" : "*",
+    "learnboost/jsonp" : "*"
   }
 }

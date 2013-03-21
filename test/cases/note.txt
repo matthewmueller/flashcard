@@ -14,8 +14,7 @@ hello
 ===
 
 fruit
-http://2.bp.blogspot.com/-roeAtoXfYVc/Td6hw6ibwZI/AAAAAAAAKwA/bvrzmBtArDo/s1600/LionKing-01.jpg
-http://translate.google.com/translate_tts?q=bonjour&tl=fr
+http://youtu.be/JW5meKfy3fY
 ## Features
 
 - follow links, use content type to determine how to present

@@ -7,7 +7,7 @@ var read = require('fs').readFileSync,
     compile = require('../lib/compiler'),
     beautify = require('js-beautify').html;
 
-var note = read('./cases/note.txt', 'utf8');
+var note = read(__dirname + '/cases/note.txt', 'utf8');
 
 compile(note, function(err, str) {
   if(err) throw err;
