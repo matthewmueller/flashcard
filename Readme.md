@@ -20,6 +20,17 @@ I wanted a flexible way to slurp in a lot of the web's media with very little pr
 
 So this compiler visits each url supplied and uses the response's `content-type` to determine how to represent each url. This makes it very easy to write scripts to build flash cards.
 
+## Installation
+
+    npm install flashcard
+
+## Usage
+
+```js
+var flashcard = require('flashcard');
+flashcard('hola---hello');
+```
+
 ## Example
 
 ```
@@ -72,17 +83,6 @@ Compile to:
     <audio src="http://translate.google.com/translate_tts?q=thank%20you&tl=en"></audio>
   </div>
 </div>
-```
-
-## Installation
-
-    npm install flashcard
-
-## Usage
-
-```js
-var flashcard = require('flashcard');
-flashcard('hola---hello');
 ```
 
 ## Language
