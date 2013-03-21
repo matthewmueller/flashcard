@@ -2,13 +2,10 @@
   "name": "flashcard",
   "version": "0.0.1",
   "dependencies": {
-    "express": "*",
-    "superagent": "*",
     "batch": "~0.3.2",
     "marked": "~0.2.8",
-    "highlight.js": "~7.3.0"
-  },
-  "devDependencies": {
-    "js-beautify": "*"
+    "highlight.js": "~7.3.0",
+    "js-beautify": "~0.4.2",
+    "superagent": "~0.13.0"
   }
 }
