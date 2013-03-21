@@ -11,6 +11,5 @@ var note = read(__dirname + '/cases/note.txt', 'utf8');
 
 compile(note, function(err, str) {
   if(err) throw err;
-  var out = beautify(str, { indent_size : 2 })
-  console.log(out);
+  console.log(str);
 });
