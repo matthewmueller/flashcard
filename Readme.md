@@ -71,7 +71,7 @@ http://translate.google.com/translate_tts?q=thank%20you&tl=en
 ===
 ```
 
-Compile to:
+Compiles to:
 
 ```html
 <div class="card">
