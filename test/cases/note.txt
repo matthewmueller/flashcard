@@ -1,28 +1,14 @@
-bonjour
-http://2.bp.blogspot.com/-roeAtoXfYVc/Td6hw6ibwZI/AAAAAAAAKwA/bvrzmBtArDo/s1600/LionKing-01.jpg
-http://translate.google.com/translate_tts?q=bonjour&tl=fr
-## Features
-
-- follow links, use content type to determine how to present
-- come up with syntax (really flexible)
-- smart templates (.1-text-2-images)
-- markdown support (optional)
-- keyboard shortcuts (for paging through notecards)
-- heavy response caching across users (same http request should return the same response)
+hola
+http://fc04.deviantart.net/fs39/i/2008/363/6/4/Wave_Hello_by_8darkened8eclipse8.jpg
+http://translate.google.com/translate_tts?q=hola&tl=es
 ---
 hello
+http://translate.google.com/translate_tts?q=hello&tl=en
 ===
-
-fruit
-http://youtu.be/JW5meKfy3fY
-## Features
-
-- follow links, use content type to determine how to present
-- come up with syntax (really flexible)
-- smart templates (.1-text-2-images)
-- markdown support (optional)
-- keyboard shortcuts (for paging through notecards)
-- heavy response caching across users (same http request should return the same response)
+gracias
+http://us.123rf.com/400wm/400/400/yeyen123rf/yeyen123rf1210/yeyen123rf121000262/15840661-thank-you-blackboard-sign-thank-you-written-with-chalk-on-black-chalkboard.jpg
+http://translate.google.com/translate_tts?q=gracias&tl=es
 ---
-fruta
+thank you
+http://translate.google.com/translate_tts?q=thank%20you&tl=en
 ===
