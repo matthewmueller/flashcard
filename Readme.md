@@ -97,7 +97,7 @@ Represents the end of one card, the start of the next
 
 ### `url`
 
-URL to a media resource. Flashcard currently supports: images, audio, & youtube
+URL to a media resource. Flashcard currently supports: images, audio, youtube, and regular links to html pages.
 
 ### `text`
 
