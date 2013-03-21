@@ -4,7 +4,7 @@ Hacker-friendly flashcard compiler.
 
 ## Motivation
 
-Flashcards take too long to make. A lot of the information can be automated. Let's create a language around flashcard creation thats easy to read, open, flexible and supports lots of different kinds of media.
+Flashcards take too long to make. A lot of the process can be automated. Let's create a language around flashcard creation thats easy to read, open, flexible and supports lots of different kinds of media.
 
 ## But... why?
 
