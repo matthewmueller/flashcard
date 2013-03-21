@@ -8,6 +8,8 @@ var port = process.argv[2] || 9000,
     Batch = require('batch'),
     app = module.exports = express();
 
+var lexer = require('./lib/lexer');
+
 /**
  * URL regex
  */
@@ -35,10 +37,12 @@ app.get('/', function(req, res) {
 app.post('/notes', function(req, res) {
   var notes = req.body.notes;
 
-  notes = parse(notes, function(err, cards) {
-    if(err) return next(err);
-    res.send(notes)
-  });
+  lexer(notes)
+
+  // notes = parse(notes, function(err, cards) {
+  //   if(err) return next(err);
+  //   res.send(notes)
+  // });
 
 });
 
