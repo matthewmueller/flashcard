@@ -74,6 +74,17 @@ Compile to:
 </div>
 ```
 
+## Installation
+
+    npm install flashcard
+
+## Usage
+
+```js
+var flashcard = require('flashcard');
+flashcard('hola---hello');
+```
+
 ## Language
 
 ### `===`
