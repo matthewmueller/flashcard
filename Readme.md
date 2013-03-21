@@ -31,6 +31,27 @@ var flashcard = require('flashcard');
 flashcard('hola---hello');
 ```
 
+## Language
+
+### `===`
+
+Represents the end of one card, the start of the next
+
+### `---`
+
+"Flips" the card. The back side of the card.
+
+### `url`
+
+URL to a media resource. Flashcard currently supports: images, audio, youtube, and regular links to html pages.
+
+### `text`
+
+Text is anything that isn't a url. Flashcard this text to markdown and supports code blocks.
+
+> Whitespace doesn't matter except when you're in a text block (ie. in between paragraphs)
+
+
 ## Example
 
 ```
@@ -84,26 +105,6 @@ Compile to:
   </div>
 </div>
 ```
-
-## Language
-
-### `===`
-
-Represents the end of one card, the start of the next
-
-### `---`
-
-"Flips" the card. The back side of the card.
-
-### `url`
-
-URL to a media resource. Flashcard currently supports: images, audio, youtube, and regular links to html pages.
-
-### `text`
-
-Text is anything that isn't a url. Flashcard this text to markdown and supports code blocks.
-
-> Whitespace doesn't matter except when you're in a text block (ie. in between paragraphs)
 
 ## Special Thanks
 
