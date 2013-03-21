@@ -51,7 +51,7 @@ URL to a media resource. Flashcard currently supports: images, audio, youtube, a
 
 Text is anything that isn't a url. Flashcard this text to markdown and supports code blocks.
 
-> Whitespace doesn't matter except when you're in a text block (ie. in between paragraphs)
+> Empty lines don't matter except when you're in a text block (ie. in between paragraphs)
 
 
 ## Example
